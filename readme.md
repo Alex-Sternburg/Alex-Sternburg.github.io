@@ -10,7 +10,7 @@ https://www.w3schools.com/w3css/tryw3css_templates_bw_portfolio.htm
 My workflow began with me finding all the material I wanted to include on the site
 I also chose a template from the above website to use as a base for my website
 Another thing I did was upload portions of performances onto youtube, creating thumbnails and getting the embed link.
-I also used postimages to get urls for images I wanted to use.
+I also used post images to get urls for images I wanted to use.
 Also a lot of working on the project was me playing around with different code I learned from w3schools.
 
 # Hidden Sidebar (reveals when clicked on menu icon)
@@ -33,7 +33,7 @@ I again transformed the bar with client, performances, negotiation and partners(
 # Testimonials
 I reached out to three people that could talk about me as a student and as a person. I am still waiting for one response. I did take out the avatar image because I didn't ask permission from the people I asked to include a photo of them,, so it would've been unfair and unprofessional to do so.
 
-# Grid for Achievments tables
+# Grid for Achievements tables
 On the originally template this was a pricing grid, so I tried to alter it to work for my site. Therefore, I thought it would be the perfect place to highlight my achievements (activities and honors)
 
 
