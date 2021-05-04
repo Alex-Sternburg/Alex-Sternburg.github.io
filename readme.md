@@ -16,7 +16,7 @@ Also a lot of working on the project was me playing around with different code I
 # Hidden Sidebar (reveals when clicked on menu icon)
 This section was made by the template. However I ran into an issue of the bar not working at one point during my workflow. I was able to fix it by using the developer tool on the demo and comparing it against my html. Once I did this I located where the missing part was and added it back in. I also played around with what the tags would be.
 
-## Page Content
+# Page Content
 I had some difficulty with getting the image onto the webpage. I figured out that I needed to upload it on the web so that I could get an appropriate jpeg file url. I  
 
 
@@ -44,6 +44,7 @@ It was easy enough to add my location, phone number and email.
 This is where I had to link my socials. By using the skills I learned earlier in the code, I was able to easily link to the images on the site.
 
 #Reflection/Improvements
+
 All of the answers I was looking for was on the w3schools, however most of this project was me spending hours trying one thing and then another. In other words I was playing around with a lot of the more difficult aspects such as getting an image uploaded, having my resume downloadable from the button, and linking the images of my essays to my actual papers for reading. For the most part though as I solved one issue I was able to implement the answer to my problem to other aspects of the site. In particular linking things properly. I also had to do a lot of reworking the formatting and dimensions of all my media.
 
 I think that as far as improvements I need to have a border between the side image and the website material. I should also bootstrap my website as well for better mobile use and I should also clean it up and make it look less like a beginner programmer made it.
